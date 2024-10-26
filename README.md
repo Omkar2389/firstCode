@@ -1,0 +1,2 @@
+# firstCode
+to learn git
